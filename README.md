@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**HafsaMalikPro/HafsaMalikPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋, Paasion to Profession Programmer
 
 Here are some ideas to get you started:
 
@@ -10,4 +7,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on different projects
 - 🤔 I’m looking for best learning opprtunites
 - ⚡ Fun fact: If code is running don't change it.
--->
